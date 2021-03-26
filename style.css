@@ -1,0 +1,16 @@
+html {
+    background: rgb(134, 150, 223);
+  }
+
+.card {
+    background: rgb(107, 193, 204);
+    width: 40%;
+    padding: 10px;
+    border: 1px solid black;
+    box-shadow: 1px 5px 5px;
+
+}
+
+.card img{
+    width: 100%;
+}
