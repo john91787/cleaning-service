@@ -3,8 +3,11 @@ html {
   }
 
 .card {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
     background: rgb(107, 193, 204);
-    width: ;
+    width:90% ;
     padding: 10px;
     border: 1px solid black;
     box-shadow: 1px 5px 5px;
@@ -12,7 +15,7 @@ html {
 }
 
 .card img{
-    width: 100%;
+    width: 40%;
 }
 
 h1 {
@@ -41,4 +44,9 @@ h4{
 
 ul{
     font-size:20px;
+}
+
+h3{
+    font-size:40px;
+    text-align:center;
 }
